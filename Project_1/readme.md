@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.](https://github.com/user-attachments/assets/73a177ca-fc87-46ba-8a0d-e276b91fe8ce)
+![1_Salary_Dashboard.](https://github.com/user-attachments/assets/19203ba8-7f8a-423b-9cc6-180628540296)
 
 ## Introduction
 
