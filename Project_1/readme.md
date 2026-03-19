@@ -78,11 +78,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="1135" height="352" alt="mediantab" src="https://github.com/user-attachments/assets/616c4c39-c8a4-4bcb-8794-7e0dcb0c6dcf" />
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="![Bar](https://github.com/user-attachments/assets/63ad3efe-417a-489d-9493-13042b682118)
+" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
